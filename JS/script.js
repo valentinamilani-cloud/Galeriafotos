@@ -11,224 +11,224 @@ const projects = [
         title: "Atividade Ângulo e Enquadramento",
         author: "Valentina Milani",
         category: "Ângulo",
-        image: "img./3.jpeg",
+        image: "img/3.jpeg",
         description: "Fotografia cerâmica e flores em ângulo alto."
     },
     {
         title: "Atividade Ângulo e Enquadramento",
         author: "Valentina Milani",
         category: "Ângulo",
-        image: "img./5.jpeg",
+        image: "img/5.jpeg",
         description: "Fotografia cerâmica e flores em ângulo médio."
     },
     {
         title: "Atividade Ângulo e Enquadramento",
         author: "Valentina Milani",
         category: "Enquadramento",
-        image: "img./4.jpeg",
+        image: "img/4.jpeg",
         description: "Fotografia cerâmica e flores."
     },
     {
         title: "Atividade Ângulo e Enquadramento", 
         author: "Valentina Milani",
         category: "Enquadramento",
-        image: "img./6.jpeg",
+        image: "img/6.jpeg",
         description: "Fotografia cerâmica e flores."
     },
     {
         title: "Atividade Ângulo e Enquadramento",
         author: "Valentina Milani",
         category: "Enquadramento",
-        image: "img./2.jpeg",
+        image: "img/2.jpeg",
         description: "Fotografia cerâmica e flores."
     },
     {
         title: "Atividade Light Paint",
         author: "Valentina Milani",
         category: "Light Paint",
-        image: "img./light 1.jpg",
+        image: "img/light 1.jpg",
         description: "Fotografia de Luz e Movimento."
     },
     {
         title: "Atividade Light Paint",
         author: "Valentina Milani",
         category: "Light Paint",
-        image: "img./light 2.jpg",
+        image: "img/light 2.jpg",
         description: "Fotografia de Luz e Movimento."
     },
     {
         title: "Atividade Light Paint",
         author: "Valentina Milani",
         category: "Light Paint",
-        image: "img./light 3.jpg",
+        image: "img/light 3.jpg",
         description: "Fotografia de Luz e Movimento."
     },
     {
         title: "Atividade Espelhos e Paisagem",
         author: "Valentina Milani",
         category: "Espelhos e Paisagem",
-        image: "img./espelho 1.png",
+        image: "img/espelho 1.png",
         description: "Fotografia feita com paisagens e espelhos, com auxílio do Light Room."
     },
     {
            title: "Atividade Light Paint",
         author: "Valentina Milani",
         category: "Light Paint",
-        image: "img./light 4.jpg",
+        image: "img/light 4.jpg",
         description: "Fotografia de Luz e Movimento."
     },
         {
          title: "Atividade Espelhos e Paisagem",
         author: "Valentina Milani",
         category: "Espelhos e Paisagem",
-        image: "img./espelho 2.png",
+        image: "img/espelho 2.png",
         description: "Fotografia feita com paisagens e espelhos, com auxílio do Light Room."
     },
         {
         title: "Atividade Espelhos e Paisagem",
         author: "Valentina Milani",
         category: "Espelhos e Paisagem",
-        image: "img./espelho 3.png",
+        image: "img/espelho 3.png",
         description: "Fotografia feita com paisagens e espelhos, com auxílio do Light Room."
     },
         {
         title: "Atividade Espelhos e Paisagem",
         author: "Valentina Milani",
         category: "Espelhos e Paisagem",
-        image: "img./espelho 4.png",
+        image: "img/espelho 4.png",
         description: "Fotografia feita com paisagens e espelhos, com auxílio do Light Room."
     },
      {
          title: "Atividade Espelhos e Paisagem",
         author: "Valentina Milani",
         category: "Espelhos e Paisagem",
-        image: "img./espelho 5.png",
+        image: "img/espelho 5.png",
         description: "Fotografia feita com paisagens e espelhos, com auxílio do Light Room."
     },
            {
              title: "Atividade Motion Blur",
         author: "Valentina Milani",
         category: "Motion Blur",
-        image: "img./motion 1.png",
+        image: "img/motion 1.png",
         description: "Fotografias de Motion Blur."
     },
         {
           title: "Atividade Dupla Exposição",
         author: "Valentina Milani",
         category: "Dupla Exposição",
-        image: "img./dupla exposição.png",
+        image: "img/dupla exposição.png",
         description: "Fotografia editada no fotoshop com dupla exposição."
     },
            {
         title: "Atividade Motion Blur",
         author: "Valentina Milani",
         category: "Motion Blur",
-        image: "img./motion 2.png",
+        image: "img/motion 2.png",
         description: "Fotografias de Motion Blur."
     },
         {
         title: "Atividade Motion Blur",
         author: "Valentina Milani",
         category: "Motion Blur",
-        image: "img./motion 3.png",
+        image: "img/motion 3.png",
         description: "Fotografias de Motion Blur."
     },
             {
             title: "Atividade Motion Blur",
         author: "Valentina Milani",
         category: "Motion Blur",
-        image: "img./motion 4.png",
+        image: "img/motion 4.png",
         description: "Fotografias de Motion Blur."
     },
                 {
             title: "Atividade Texturas",
             author: "Valentina Milani",
             category: "Texturas na escola",
-            image: "img./textura pés.jpg",
+            image: "img/textura pés.jpg",
             description: "Fotografia de texturas na escola."
     },
            {
             title: "Atividade Texturas",
             author: "Valentina Milani",
             category: "Texturas na escola",
-            image: "img./textura jornais.jpg",
+            image: "img/textura jornais.jpg",
             description: "Fotografia de texturas na escola."
     },
            {
             title: "Atividade Texturas",
             author: "Valentina Milani",
             category: "Texturas na escola",
-            image: "img./quadrado.jpg",
+            image: "img/quadrado.jpg",
             description: "Fotografia de texturas na escola."
     },
            {
            title: "Atividade Texturas",
             author: "Valentina Milani",
             category: "Texturas na escola",
-            image: "img./textura fios.jpg",
+            image: "img/textura fios.jpg",
             description: "Fotografia de texturas na escola."
     },
             {
             title: "Atividade Texturas",
             author: "Valentina Milani",
             category: "Texturas na escola",
-            image: "img./textura escova.jpg",
+            image: "img/textura escova.jpg",
             description: "Fotografia de texturas na escola."
     },
             {
             title: "Atividade Texturas",
             author: "Valentina Milani",
             category: "Texturas na escola",
-            image: "img./textura bueiro.jpg",
+            image: "img/textura bueiro.jpg",
             description: "Fotografia de texturas na escola."
     },
             {
             title: "Atividade Texturas",
             author: "Valentina Milani",
             category: "Texturas na escola",
-            image: "img./textura chão.jpg",
+            image: "img/textura chão.jpg",
             description: "Fotografia de texturas na escola."
     },
             {
              title: "Atividade Texturas",
             author: "Valentina Milani",
             category: "Texturas na escola",
-            image: "img./textura espiral.jpg",
+            image: "img/textura espiral.jpg",
             description: "Fotografia de texturas na escola."
     },
             {
             title: "Atividade Texturas",
             author: "Valentina Milani",
             category: "Texturas na escola",
-            image: "img./textura pia.jpg",
+            image: "img/textura pia.jpg",
             description: "Fotografia de texturas na escola."
     },
             {
            title: "Atividade Texturas",
             author: "Valentina Milani",
             category: "Texturas na escola",
-            image: "img./textura livros.jpg",
+            image: "img/textura livros.jpg",
             description: "Fotografia de texturas na escola."
     },
              {
            title: "Atividade Colagem",
             author: "Valentina Milani",
             category: "Colagem",
-            image: "img./colagem.png",
+            image: "img/colagem.png",
             description: "Colagem feita no Photoshop." 
     },
               {
            title: "Atividade Fotografia de Produto",
             author: "Valentina Milani",
             category: "Revista",
-            image: "img./rev.png",
+            image: "img/rev.png",
             description: "Página dupla de revista feita no figma." 
     },
               {
            title: "Atividade Fotografia de Produto",
             author: "Valentina Milani",
             category: "Folder",
-            image: "img./Folder.png",
+            image: "img/Folder.png",
             description: "Folder de produto." 
     },
 ];
