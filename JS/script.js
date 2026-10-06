@@ -4,7 +4,7 @@ const projects = [
         title: "Atividade Ângulo e Enquadramento",
         author: "Valentina Milani",
         category: "Ângulo",
-        image: "img./1.jpeg",
+        image: "img/1.jpeg",
         description: "Fotografia cerâmica e flores em ângulo alto."
     },
     {
