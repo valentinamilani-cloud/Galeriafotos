@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Galeria de Fotos</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+
+<body>
+
+    <header class="portfolio-header">
+        
+
+        <div class="badge">
+            Galeria de Fotos
+        </div>
+          <h1>
+            Valentina <span>Milani</span>
+        </h1>
+
+        <p>𝘈𝘮𝘰𝘴𝘵𝘳𝘢 𝘥𝘰 𝘮𝘦𝘶 𝘱𝘰𝘳𝘵𝘪𝘧𝘰́𝘭𝘪𝘰 𝘥𝘦 𝘍𝘰𝘵𝘰𝘴</p>
+
+      
+
+        <div class="header-divider"></div>
+
+    </header>
+
+
+    <main class="container">
+
+        <section class="gallery-grid" id="gallery-grid">
+
+        </section>
+
+    </main>
+
+
+    <div class="lightbox" id="lightbox" aria-hidden="true">
+
+        <button
+            id="close-btn"
+            class="lightbox-close"
+            title="Fechar (Esc)">
+            &times;
+        </button>
+
+
+        <div class="lightbox-card">
+
+            <div class="lightbox-info">
+
+                <span
+                    id="lightbox-tag"
+                    class="tag-badge">
+                </span>
+
+                <h2 id="lightbox-title"></h2>
+
+                <h4 id="lightbox-author"></h4>
+
+                <p id="lightbox-description"></p>
+
+                <div
+                    class="counter"
+                    id="lightbox-counter">
+                    01 / 08
+                </div>
+
+            </div>
+
+
+            <div class="lightbox-img-wrapper">
+
+                <img
+                    id="lightbox-img"
+                    src=""
+                    alt="">
+
+            </div>
+
+        </div>
+
+
+        <button
+            id="prev-btn"
+            class="lightbox-nav prev"
+            title="Obra Anterior">
+            &#10094;
+        </button>
+
+        <button
+            id="next-btn"
+            class="lightbox-nav next"
+            title="Próxima Obra">
+            &#10095;
+        </button>
+
+    </div>
+
+
+    <script src="JS/script.js"></script>
+
+</body>
+
+</html>
